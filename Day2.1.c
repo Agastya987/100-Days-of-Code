@@ -11,4 +11,6 @@ int main() {
     perimeter = 2 * (length + breadth);
 
     // Output
-    printf("Area=%d, P
+    printf("Area=%d, Primeter=%d\n", area, perimeter);
+}
+
